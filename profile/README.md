@@ -5,7 +5,9 @@ Alice Project creates Open Source game development engine and tools.
 ## Links
 
 - [Website](https://alicenovel.web.app)
-- [Documentations](https://alicenovel.web.app/en/docs/getting-started/1)
+  - [Documentations](https://alicenovel.web.app/en/docs/getting-started/1)
+- [Common Novel Spec](https://alicenovel.github.io/CommonNovel/)
+- [Novel IL Spec](https://novelil.web.app)
 
 ## Solutions
 
